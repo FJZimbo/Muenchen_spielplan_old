@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T05:10:41+00:00",
+ "generated_at": "2026-11-06T05:07:15+00:00",
  "venues": {
   "residenztheater": {
    "name": "Residenztheater",
@@ -18,24 +18,24 @@
     {
      "url": "https://www.residenztheater.de/spielplan",
      "context": null,
-     "anchors": 56,
-     "cards": 56,
+     "anchors": 54,
+     "cards": 54,
      "no_date": 0,
      "no_time": 1,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 55
+     "events": 53
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-11&cHash=50e34a17963e7f2baea7a1e33d4934de",
      "context": null,
-     "anchors": 56,
-     "cards": 56,
+     "anchors": 54,
+     "cards": 54,
      "no_date": 0,
      "no_time": 1,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 55
+     "events": 53
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-12&cHash=978a8caafa88da6426c2d6904eb0119c",
@@ -115,13 +115,13 @@
      "events": 2
     }
    ],
-   "count": 136,
-   "seconds": 42.2,
+   "count": 134,
+   "seconds": 42.3,
    "ok": true,
-   "last_success": "2026-11-05T06:01+01:00",
-   "first": "2026-11-05",
+   "last_success": "2026-11-06T05:59+01:00",
+   "first": "2026-11-06",
    "last": "2027-06-19",
-   "sold_out": 20,
+   "sold_out": 18,
    "with_image": 0
   },
   "kammerspiele": {
@@ -141,22 +141,22 @@
     {
      "url": "https://www.muenchner-kammerspiele.de/de/programm/",
      "context": null,
-     "anchors": 408,
-     "cards": 408,
-     "no_date": 10,
+     "anchors": 406,
+     "cards": 406,
+     "no_date": 12,
      "no_time": 36,
      "no_title": 0,
      "pattern": "/programm/\\d+-[^/?#]+/(\\d+)\\.ics",
-     "events": 362
+     "events": 358
     }
    ],
-   "count": 180,
-   "seconds": 14.1,
+   "count": 178,
+   "seconds": 13.2,
    "ok": true,
-   "last_success": "2026-11-05T06:01+01:00",
-   "first": "2026-11-05",
+   "last_success": "2026-11-06T05:59+01:00",
+   "first": "2026-11-06",
    "last": "2027-11-17",
-   "sold_out": 1,
+   "sold_out": 3,
    "with_image": 0
   },
   "volkstheater": {
@@ -176,9 +176,9 @@
     {
      "url": "https://www.muenchner-volkstheater.de/programm/spielplan",
      "context": null,
-     "anchors": 137,
-     "cards": 136,
-     "no_date": 133,
+     "anchors": 136,
+     "cards": 135,
+     "no_date": 132,
      "no_time": 0,
      "no_title": 0,
      "pattern": "muenchner-volkstheater\\.de/programm/(?!spielplan)([a-z0-9-]+/[a-z0-9-]+)/?$",
@@ -186,10 +186,10 @@
     }
    ],
    "count": 2,
-   "seconds": 8.6,
+   "seconds": 8.1,
    "ok": true,
-   "last_success": "2026-11-05T06:01+01:00",
-   "first": "2026-11-05",
+   "last_success": "2026-11-06T05:59+01:00",
+   "first": "2026-11-06",
    "last": "2026-11-06",
    "sold_out": 0,
    "with_image": 0
@@ -223,17 +223,12 @@
     },
     {
      "url": "https://www.deutsches-theater.de/programm/",
-     "show_links": 119
+     "show_links": 120
     },
     {
      "url": "https://www.deutsches-theater.de/disney-der-gloeckner-von-notre-dame/",
      "mode": "range+weekly",
-     "dates": 5
-    },
-    {
-     "url": "https://www.deutsches-theater.de/himmel-nochmal/",
-     "mode": "dates",
-     "dates": 1
+     "dates": 4
     },
     {
      "url": "https://www.deutsches-theater.de/vickys-shit-show/",
@@ -381,6 +376,11 @@
      "dates": 1
     },
     {
+     "url": "https://www.deutsches-theater.de/der-grosse-narrhalla-ball/",
+     "mode": "dates",
+     "dates": 1
+    },
+    {
      "url": "https://www.deutsches-theater.de/pasion-de-baile/",
      "mode": "dates",
      "dates": 1
@@ -516,6 +516,11 @@
      "dates": 1
     },
     {
+     "url": "https://www.deutsches-theater.de/der-muenchner-live-tour-2027/",
+     "mode": "dates",
+     "dates": 1
+    },
+    {
      "url": "https://www.deutsches-theater.de/one-night-stand/",
      "mode": "dates",
      "dates": 1
@@ -541,11 +546,6 @@
      "dates": 31
     },
     {
-     "url": "https://www.deutsches-theater.de/strings-on-fire/",
-     "mode": "dates",
-     "dates": 1
-    },
-    {
      "url": "https://www.deutsches-theater.de/",
      "context": null,
      "events": 0
@@ -562,7 +562,7 @@
     {
      "url": "https://www.deutsches-theater.de/disney-der-gloeckner-von-notre-dame/",
      "mode": "range+weekly",
-     "dates": 5
+     "dates": 4
     },
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
@@ -570,14 +570,14 @@
      "dates": 16
     }
    ],
-   "count": 250,
-   "seconds": 411.6,
+   "count": 249,
+   "seconds": 340.7,
    "ok": true,
-   "last_success": "2026-11-05T06:01+01:00",
-   "first": "2026-11-05",
+   "last_success": "2026-11-06T05:59+01:00",
+   "first": "2026-11-06",
    "last": "2027-11-23",
    "sold_out": 0,
-   "with_image": 250
+   "with_image": 249
   },
   "isarphilharmonie": {
    "name": "Isarphilharmonie",
@@ -606,11 +606,11 @@
     }
    ],
    "count": 24,
-   "seconds": 8.2,
+   "seconds": 7.7,
    "ok": true,
-   "last_success": "2026-11-05T06:01+01:00",
-   "first": "2026-11-05",
-   "last": "2026-11-25",
+   "last_success": "2026-11-06T05:59+01:00",
+   "first": "2026-11-06",
+   "last": "2026-11-26",
    "sold_out": 0,
    "with_image": 23
   },
@@ -666,32 +666,32 @@
      "context": null,
      "film_links": 66,
      "blocks": 33,
-     "screenings": 292,
+     "screenings": 262,
      "undated_times": 0,
-     "events": 292
+     "events": 262
     },
     {
      "url": "https://www.museum-lichtspiele.de/",
      "context": null,
-     "film_links": 33,
-     "blocks": 32,
+     "film_links": 37,
+     "blocks": 36,
      "screenings": 10,
-     "undated_times": 10,
+     "undated_times": 15,
      "events": 10
     },
     {
      "json_payloads": 4,
-     "json_events": 146
+     "json_events": 131
     }
    ],
-   "count": 207,
-   "seconds": 18.0,
+   "count": 190,
+   "seconds": 17.4,
    "ok": true,
-   "last_success": "2026-11-05T06:01+01:00",
-   "first": "2026-11-05",
+   "last_success": "2026-11-06T05:59+01:00",
+   "first": "2026-11-06",
    "last": "2027-01-09",
    "sold_out": 0,
-   "with_image": 207
+   "with_image": 190
   },
   "city-kino-atelier": {
    "name": "City Kinos & Atelier",
@@ -708,7 +708,7 @@
    "errors": [],
    "stats": [
     {
-     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-05&tab=daily&sessionsExpanded=&film=naza",
+     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-06&tab=daily&sessionsExpanded=&film=minotaurus",
      "context": null,
      "film_links": 37,
      "blocks": 17,
@@ -717,18 +717,18 @@
      "events": 12
     },
     {
-     "json_payloads": 11,
-     "json_events": 249
+     "json_payloads": 12,
+     "json_events": 223
     }
    ],
-   "count": 168,
-   "seconds": 7.9,
+   "count": 151,
+   "seconds": 7.2,
    "ok": true,
-   "last_success": "2026-11-05T06:01+01:00",
-   "first": "2026-11-05",
+   "last_success": "2026-11-06T05:59+01:00",
+   "first": "2026-11-06",
    "last": "2026-12-19",
    "sold_out": 0,
-   "with_image": 95
+   "with_image": 84
   }
  }
 }
