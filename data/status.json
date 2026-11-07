@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T05:07:15+00:00",
+ "generated_at": "2026-11-07T05:03:58+00:00",
  "venues": {
   "residenztheater": {
    "name": "Residenztheater",
@@ -18,24 +18,24 @@
     {
      "url": "https://www.residenztheater.de/spielplan",
      "context": null,
-     "anchors": 54,
-     "cards": 54,
+     "anchors": 52,
+     "cards": 52,
      "no_date": 0,
      "no_time": 1,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 53
+     "events": 51
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-11&cHash=50e34a17963e7f2baea7a1e33d4934de",
      "context": null,
-     "anchors": 54,
-     "cards": 54,
+     "anchors": 52,
+     "cards": 52,
      "no_date": 0,
      "no_time": 1,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 53
+     "events": 51
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-12&cHash=978a8caafa88da6426c2d6904eb0119c",
@@ -115,11 +115,11 @@
      "events": 2
     }
    ],
-   "count": 134,
-   "seconds": 42.3,
+   "count": 132,
+   "seconds": 42.8,
    "ok": true,
-   "last_success": "2026-11-06T05:59+01:00",
-   "first": "2026-11-06",
+   "last_success": "2026-11-07T05:55+01:00",
+   "first": "2026-11-07",
    "last": "2027-06-19",
    "sold_out": 18,
    "with_image": 0
@@ -141,22 +141,22 @@
     {
      "url": "https://www.muenchner-kammerspiele.de/de/programm/",
      "context": null,
-     "anchors": 406,
-     "cards": 406,
-     "no_date": 12,
+     "anchors": 396,
+     "cards": 396,
+     "no_date": 8,
      "no_time": 36,
      "no_title": 0,
      "pattern": "/programm/\\d+-[^/?#]+/(\\d+)\\.ics",
-     "events": 358
+     "events": 352
     }
    ],
-   "count": 178,
-   "seconds": 13.2,
+   "count": 175,
+   "seconds": 12.9,
    "ok": true,
-   "last_success": "2026-11-06T05:59+01:00",
-   "first": "2026-11-06",
+   "last_success": "2026-11-07T05:55+01:00",
+   "first": "2026-11-07",
    "last": "2027-11-17",
-   "sold_out": 3,
+   "sold_out": 2,
    "with_image": 0
   },
   "volkstheater": {
@@ -176,9 +176,9 @@
     {
      "url": "https://www.muenchner-volkstheater.de/programm/spielplan",
      "context": null,
-     "anchors": 136,
-     "cards": 135,
-     "no_date": 132,
+     "anchors": 133,
+     "cards": 132,
+     "no_date": 129,
      "no_time": 0,
      "no_title": 0,
      "pattern": "muenchner-volkstheater\\.de/programm/(?!spielplan)([a-z0-9-]+/[a-z0-9-]+)/?$",
@@ -186,11 +186,11 @@
     }
    ],
    "count": 2,
-   "seconds": 8.1,
+   "seconds": 8.4,
    "ok": true,
-   "last_success": "2026-11-06T05:59+01:00",
-   "first": "2026-11-06",
-   "last": "2026-11-06",
+   "last_success": "2026-11-07T05:55+01:00",
+   "first": "2026-11-07",
+   "last": "2026-11-07",
    "sold_out": 0,
    "with_image": 0
   },
@@ -228,12 +228,7 @@
     {
      "url": "https://www.deutsches-theater.de/disney-der-gloeckner-von-notre-dame/",
      "mode": "range+weekly",
-     "dates": 4
-    },
-    {
-     "url": "https://www.deutsches-theater.de/vickys-shit-show/",
-     "mode": "dates",
-     "dates": 1
+     "dates": 3
     },
     {
      "url": "https://www.deutsches-theater.de/cuban-gala-night/",
@@ -546,6 +541,11 @@
      "dates": 31
     },
     {
+     "url": "https://www.deutsches-theater.de/strings-on-fire/",
+     "mode": "dates",
+     "dates": 1
+    },
+    {
      "url": "https://www.deutsches-theater.de/",
      "context": null,
      "events": 0
@@ -562,7 +562,7 @@
     {
      "url": "https://www.deutsches-theater.de/disney-der-gloeckner-von-notre-dame/",
      "mode": "range+weekly",
-     "dates": 4
+     "dates": 3
     },
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
@@ -570,14 +570,14 @@
      "dates": 16
     }
    ],
-   "count": 249,
-   "seconds": 340.7,
+   "count": 248,
+   "seconds": 400.0,
    "ok": true,
-   "last_success": "2026-11-06T05:59+01:00",
-   "first": "2026-11-06",
+   "last_success": "2026-11-07T05:55+01:00",
+   "first": "2026-11-07",
    "last": "2027-11-23",
    "sold_out": 0,
-   "with_image": 249
+   "with_image": 248
   },
   "isarphilharmonie": {
    "name": "Isarphilharmonie",
@@ -606,11 +606,11 @@
     }
    ],
    "count": 24,
-   "seconds": 7.7,
+   "seconds": 8.7,
    "ok": true,
-   "last_success": "2026-11-06T05:59+01:00",
-   "first": "2026-11-06",
-   "last": "2026-11-26",
+   "last_success": "2026-11-07T05:55+01:00",
+   "first": "2026-11-07",
+   "last": "2026-11-27",
    "sold_out": 0,
    "with_image": 23
   },
@@ -634,7 +634,7 @@
     }
    ],
    "count": 0,
-   "seconds": 2.5,
+   "seconds": 2.6,
    "ok": false,
    "last_success": null,
    "kept_previous": 0
@@ -666,32 +666,32 @@
      "context": null,
      "film_links": 66,
      "blocks": 33,
-     "screenings": 262,
+     "screenings": 222,
      "undated_times": 0,
-     "events": 262
+     "events": 222
     },
     {
      "url": "https://www.museum-lichtspiele.de/",
      "context": null,
-     "film_links": 37,
-     "blocks": 36,
+     "film_links": 39,
+     "blocks": 38,
      "screenings": 10,
      "undated_times": 15,
      "events": 10
     },
     {
      "json_payloads": 4,
-     "json_events": 131
+     "json_events": 111
     }
    ],
-   "count": 190,
-   "seconds": 17.4,
+   "count": 169,
+   "seconds": 17.5,
    "ok": true,
-   "last_success": "2026-11-06T05:59+01:00",
-   "first": "2026-11-06",
+   "last_success": "2026-11-07T05:55+01:00",
+   "first": "2026-11-07",
    "last": "2027-01-09",
    "sold_out": 0,
-   "with_image": 190
+   "with_image": 169
   },
   "city-kino-atelier": {
    "name": "City Kinos & Atelier",
@@ -708,27 +708,27 @@
    "errors": [],
    "stats": [
     {
-     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-06&tab=daily&sessionsExpanded=&film=minotaurus",
+     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-07&tab=daily&sessionsExpanded=&film=vaterland",
      "context": null,
-     "film_links": 37,
-     "blocks": 17,
+     "film_links": 34,
+     "blocks": 16,
      "screenings": 12,
-     "undated_times": 4,
+     "undated_times": 3,
      "events": 12
     },
     {
-     "json_payloads": 12,
-     "json_events": 223
+     "json_payloads": 11,
+     "json_events": 196
     }
    ],
-   "count": 151,
-   "seconds": 7.2,
+   "count": 140,
+   "seconds": 7.8,
    "ok": true,
-   "last_success": "2026-11-06T05:59+01:00",
-   "first": "2026-11-06",
+   "last_success": "2026-11-07T05:55+01:00",
+   "first": "2026-11-07",
    "last": "2026-12-19",
    "sold_out": 0,
-   "with_image": 84
+   "with_image": 62
   }
  }
 }
