@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T05:04:46+00:00",
+ "generated_at": "2026-11-09T05:16:41+00:00",
  "venues": {
   "residenztheater": {
    "name": "Residenztheater",
@@ -18,24 +18,24 @@
     {
      "url": "https://www.residenztheater.de/spielplan",
      "context": null,
-     "anchors": 49,
-     "cards": 49,
+     "anchors": 47,
+     "cards": 47,
      "no_date": 0,
      "no_time": 1,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 48
+     "events": 46
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-11&cHash=50e34a17963e7f2baea7a1e33d4934de",
      "context": null,
-     "anchors": 49,
-     "cards": 49,
+     "anchors": 47,
+     "cards": 47,
      "no_date": 0,
      "no_time": 1,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 48
+     "events": 46
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-12&cHash=978a8caafa88da6426c2d6904eb0119c",
@@ -115,11 +115,11 @@
      "events": 2
     }
    ],
-   "count": 129,
-   "seconds": 39.6,
+   "count": 127,
+   "seconds": 42.8,
    "ok": true,
-   "last_success": "2026-11-08T05:56+01:00",
-   "first": "2026-11-08",
+   "last_success": "2026-11-09T06:08+01:00",
+   "first": "2026-11-09",
    "last": "2027-06-19",
    "sold_out": 19,
    "with_image": 0
@@ -141,20 +141,20 @@
     {
      "url": "https://www.muenchner-kammerspiele.de/de/programm/",
      "context": null,
-     "anchors": 388,
-     "cards": 388,
+     "anchors": 386,
+     "cards": 386,
      "no_date": 8,
      "no_time": 36,
      "no_title": 0,
      "pattern": "/programm/\\d+-[^/?#]+/(\\d+)\\.ics",
-     "events": 344
+     "events": 342
     }
    ],
-   "count": 171,
-   "seconds": 12.5,
+   "count": 170,
+   "seconds": 13.8,
    "ok": true,
-   "last_success": "2026-11-08T05:56+01:00",
-   "first": "2026-11-08",
+   "last_success": "2026-11-09T06:08+01:00",
+   "first": "2026-11-10",
    "last": "2027-11-17",
    "sold_out": 3,
    "with_image": 0
@@ -176,9 +176,9 @@
     {
      "url": "https://www.muenchner-volkstheater.de/programm/spielplan",
      "context": null,
-     "anchors": 131,
-     "cards": 130,
-     "no_date": 127,
+     "anchors": 128,
+     "cards": 127,
+     "no_date": 124,
      "no_time": 0,
      "no_title": 0,
      "pattern": "muenchner-volkstheater\\.de/programm/(?!spielplan)([a-z0-9-]+/[a-z0-9-]+)/?$",
@@ -186,11 +186,11 @@
     }
    ],
    "count": 2,
-   "seconds": 8.5,
+   "seconds": 8.4,
    "ok": true,
-   "last_success": "2026-11-08T05:56+01:00",
-   "first": "2026-11-08",
-   "last": "2026-11-08",
+   "last_success": "2026-11-09T06:08+01:00",
+   "first": "2026-11-09",
+   "last": "2026-11-09",
    "sold_out": 0,
    "with_image": 0
   },
@@ -223,12 +223,7 @@
     },
     {
      "url": "https://www.deutsches-theater.de/programm/",
-     "show_links": 119
-    },
-    {
-     "url": "https://www.deutsches-theater.de/disney-der-gloeckner-von-notre-dame/",
-     "mode": "range+weekly",
-     "dates": 1
+     "show_links": 117
     },
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
@@ -546,23 +541,23 @@
      "dates": 1
     },
     {
+     "url": "https://www.deutsches-theater.de/oskar-maria-graf/",
+     "mode": "dates",
+     "dates": 1
+    },
+    {
      "url": "https://www.deutsches-theater.de/",
      "context": null,
      "events": 0
     },
     {
      "url": "https://www.deutsches-theater.de/",
-     "show_links": 11
+     "show_links": 10
     },
     {
      "url": "https://www.deutsches-theater.de/die-paepstin-das-musical/",
      "mode": "range+weekly",
      "dates": 15
-    },
-    {
-     "url": "https://www.deutsches-theater.de/disney-der-gloeckner-von-notre-dame/",
-     "mode": "range+weekly",
-     "dates": 1
     },
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
@@ -571,10 +566,10 @@
     }
    ],
    "count": 246,
-   "seconds": 411.0,
+   "seconds": 385.3,
    "ok": true,
-   "last_success": "2026-11-08T05:56+01:00",
-   "first": "2026-11-08",
+   "last_success": "2026-11-09T06:08+01:00",
+   "first": "2026-11-10",
    "last": "2027-11-23",
    "sold_out": 0,
    "with_image": 246
@@ -606,11 +601,11 @@
     }
    ],
    "count": 24,
-   "seconds": 9.0,
+   "seconds": 8.7,
    "ok": true,
-   "last_success": "2026-11-08T05:56+01:00",
-   "first": "2026-11-08",
-   "last": "2026-11-28",
+   "last_success": "2026-11-09T06:08+01:00",
+   "first": "2026-11-09",
+   "last": "2026-11-30",
    "sold_out": 0,
    "with_image": 23
   },
@@ -664,34 +659,34 @@
     {
      "url": "https://www.museum-lichtspiele.de/programm?filter=all",
      "context": null,
-     "film_links": 60,
-     "blocks": 30,
-     "screenings": 176,
+     "film_links": 50,
+     "blocks": 25,
+     "screenings": 138,
      "undated_times": 0,
-     "events": 176
+     "events": 138
     },
     {
      "url": "https://www.museum-lichtspiele.de/",
      "context": null,
-     "film_links": 37,
-     "blocks": 36,
+     "film_links": 34,
+     "blocks": 33,
      "screenings": 10,
      "undated_times": 11,
      "events": 10
     },
     {
      "json_payloads": 4,
-     "json_events": 88
+     "json_events": 69
     }
    ],
-   "count": 133,
-   "seconds": 17.0,
+   "count": 103,
+   "seconds": 16.2,
    "ok": true,
-   "last_success": "2026-11-08T05:56+01:00",
-   "first": "2026-11-08",
+   "last_success": "2026-11-09T06:08+01:00",
+   "first": "2026-11-09",
    "last": "2027-01-09",
    "sold_out": 0,
-   "with_image": 133
+   "with_image": 103
   },
   "city-kino-atelier": {
    "name": "City Kinos & Atelier",
@@ -708,27 +703,27 @@
    "errors": [],
    "stats": [
     {
-     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-08&tab=daily&sessionsExpanded=&film=junkies-of-dreaming-mahler-3-currentzis",
+     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-09&tab=daily&sessionsExpanded=&film=minotaurus",
      "context": null,
-     "film_links": 46,
-     "blocks": 20,
-     "screenings": 13,
-     "undated_times": 9,
-     "events": 13
+     "film_links": 40,
+     "blocks": 18,
+     "screenings": 10,
+     "undated_times": 5,
+     "events": 10
     },
     {
-     "json_payloads": 15,
-     "json_events": 176
+     "json_payloads": 12,
+     "json_events": 135
     }
    ],
-   "count": 135,
-   "seconds": 8.1,
+   "count": 110,
+   "seconds": 8.3,
    "ok": true,
-   "last_success": "2026-11-08T05:56+01:00",
-   "first": "2026-11-08",
+   "last_success": "2026-11-09T06:08+01:00",
+   "first": "2026-11-09",
    "last": "2026-12-19",
    "sold_out": 0,
-   "with_image": 66
+   "with_image": 44
   }
  }
 }
