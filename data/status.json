@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T05:16:41+00:00",
+ "generated_at": "2026-11-10T05:05:07+00:00",
  "venues": {
   "residenztheater": {
    "name": "Residenztheater",
@@ -18,24 +18,24 @@
     {
      "url": "https://www.residenztheater.de/spielplan",
      "context": null,
-     "anchors": 47,
-     "cards": 47,
+     "anchors": 45,
+     "cards": 45,
      "no_date": 0,
      "no_time": 1,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 46
+     "events": 44
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-11&cHash=50e34a17963e7f2baea7a1e33d4934de",
      "context": null,
-     "anchors": 47,
-     "cards": 47,
+     "anchors": 45,
+     "cards": 45,
      "no_date": 0,
      "no_time": 1,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 46
+     "events": 44
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-12&cHash=978a8caafa88da6426c2d6904eb0119c",
@@ -115,13 +115,13 @@
      "events": 2
     }
    ],
-   "count": 127,
-   "seconds": 42.8,
+   "count": 125,
+   "seconds": 41.8,
    "ok": true,
-   "last_success": "2026-11-09T06:08+01:00",
-   "first": "2026-11-09",
+   "last_success": "2026-11-10T05:57+01:00",
+   "first": "2026-11-10",
    "last": "2027-06-19",
-   "sold_out": 19,
+   "sold_out": 20,
    "with_image": 0
   },
   "kammerspiele": {
@@ -150,13 +150,13 @@
      "events": 342
     }
    ],
-   "count": 170,
-   "seconds": 13.8,
+   "count": 169,
+   "seconds": 13.2,
    "ok": true,
-   "last_success": "2026-11-09T06:08+01:00",
+   "last_success": "2026-11-10T05:57+01:00",
    "first": "2026-11-10",
    "last": "2027-11-17",
-   "sold_out": 3,
+   "sold_out": 2,
    "with_image": 0
   },
   "volkstheater": {
@@ -176,9 +176,9 @@
     {
      "url": "https://www.muenchner-volkstheater.de/programm/spielplan",
      "context": null,
-     "anchors": 128,
-     "cards": 127,
-     "no_date": 124,
+     "anchors": 126,
+     "cards": 125,
+     "no_date": 122,
      "no_time": 0,
      "no_title": 0,
      "pattern": "muenchner-volkstheater\\.de/programm/(?!spielplan)([a-z0-9-]+/[a-z0-9-]+)/?$",
@@ -186,11 +186,11 @@
     }
    ],
    "count": 2,
-   "seconds": 8.4,
+   "seconds": 7.9,
    "ok": true,
-   "last_success": "2026-11-09T06:08+01:00",
-   "first": "2026-11-09",
-   "last": "2026-11-09",
+   "last_success": "2026-11-10T05:57+01:00",
+   "first": "2026-11-10",
+   "last": "2026-11-10",
    "sold_out": 0,
    "with_image": 0
   },
@@ -552,7 +552,27 @@
     },
     {
      "url": "https://www.deutsches-theater.de/",
-     "show_links": 10
+     "show_links": 14
+    },
+    {
+     "url": "https://www.deutsches-theater.de/hello-again/",
+     "mode": "range+weekly",
+     "dates": 16
+    },
+    {
+     "url": "https://www.deutsches-theater.de/romeo-und-julia/",
+     "mode": "range+weekly",
+     "dates": 16
+    },
+    {
+     "url": "https://www.deutsches-theater.de/der-geist-der-weihnacht/",
+     "mode": "range+weekly",
+     "dates": 7
+    },
+    {
+     "url": "https://www.deutsches-theater.de/alexander-klaws-a-very-special-musical-christmas/",
+     "mode": "dates",
+     "dates": 1
     },
     {
      "url": "https://www.deutsches-theater.de/die-paepstin-das-musical/",
@@ -560,15 +580,15 @@
      "dates": 15
     },
     {
-     "url": "https://www.deutsches-theater.de/romeo-und-julia/",
+     "url": "https://www.deutsches-theater.de/rock-the-ballet/",
      "mode": "range+weekly",
-     "dates": 16
+     "dates": 12
     }
    ],
    "count": 246,
-   "seconds": 385.3,
+   "seconds": 371.1,
    "ok": true,
-   "last_success": "2026-11-09T06:08+01:00",
+   "last_success": "2026-11-10T05:57+01:00",
    "first": "2026-11-10",
    "last": "2027-11-23",
    "sold_out": 0,
@@ -601,11 +621,11 @@
     }
    ],
    "count": 24,
-   "seconds": 8.7,
+   "seconds": 7.9,
    "ok": true,
-   "last_success": "2026-11-09T06:08+01:00",
-   "first": "2026-11-09",
-   "last": "2026-11-30",
+   "last_success": "2026-11-10T05:57+01:00",
+   "first": "2026-11-10",
+   "last": "2026-12-02",
    "sold_out": 0,
    "with_image": 23
   },
@@ -629,7 +649,7 @@
     }
    ],
    "count": 0,
-   "seconds": 2.6,
+   "seconds": 2.5,
    "ok": false,
    "last_success": null,
    "kept_previous": 0
@@ -659,34 +679,34 @@
     {
      "url": "https://www.museum-lichtspiele.de/programm?filter=all",
      "context": null,
-     "film_links": 50,
-     "blocks": 25,
-     "screenings": 138,
+     "film_links": 74,
+     "blocks": 37,
+     "screenings": 358,
      "undated_times": 0,
-     "events": 138
+     "events": 358
     },
     {
      "url": "https://www.museum-lichtspiele.de/",
      "context": null,
-     "film_links": 34,
-     "blocks": 33,
-     "screenings": 10,
+     "film_links": 36,
+     "blocks": 35,
+     "screenings": 11,
      "undated_times": 11,
-     "events": 10
+     "events": 11
     },
     {
-     "json_payloads": 4,
-     "json_events": 69
+     "json_payloads": 3,
+     "json_events": 0
     }
    ],
-   "count": 103,
-   "seconds": 16.2,
+   "count": 89,
+   "seconds": 18.1,
    "ok": true,
-   "last_success": "2026-11-09T06:08+01:00",
-   "first": "2026-11-09",
+   "last_success": "2026-11-10T05:57+01:00",
+   "first": "2026-11-10",
    "last": "2027-01-09",
    "sold_out": 0,
-   "with_image": 103
+   "with_image": 89
   },
   "city-kino-atelier": {
    "name": "City Kinos & Atelier",
@@ -703,7 +723,7 @@
    "errors": [],
    "stats": [
     {
-     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-09&tab=daily&sessionsExpanded=&film=minotaurus",
+     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-10&tab=daily&sessionsExpanded=&film=minotaurus",
      "context": null,
      "film_links": 40,
      "blocks": 18,
@@ -712,18 +732,18 @@
      "events": 10
     },
     {
-     "json_payloads": 12,
-     "json_events": 135
+     "json_payloads": 14,
+     "json_events": 139
     }
    ],
-   "count": 110,
-   "seconds": 8.3,
+   "count": 117,
+   "seconds": 7.9,
    "ok": true,
-   "last_success": "2026-11-09T06:08+01:00",
-   "first": "2026-11-09",
+   "last_success": "2026-11-10T05:57+01:00",
+   "first": "2026-11-10",
    "last": "2026-12-19",
    "sold_out": 0,
-   "with_image": 44
+   "with_image": 40
   }
  }
 }

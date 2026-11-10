@@ -3322,5 +3322,93 @@
 "https://www.muenchner-volkstheater.de/programm/extra/volkstour": {
 "image": "https://www.muenchner-volkstheater.de/sites/default/files/styles/page_16_9/public/event/main-image/2026-10/B%C3%BChne%201%20%28c%29%20Roland%20Halbe.jpg?h=07b92ace&itok=Np-MQBdU",
 "description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/biermann.json?id=biermann": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/biermann.json?id=biermann",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/chopin-eine-sonate-in-paris.json?id=chopin-eine-sonate-in-paris": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/chopin-eine-sonate-in-paris.json?id=chopin-eine-sonate-in-paris",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/die-teufel-directors-cut.json?id=die-teufel-directors-cut": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/die-teufel-directors-cut.json?id=die-teufel-directors-cut",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/ein-talent-furs-morden.json?id=ein-talent-furs-morden": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/ein-talent-furs-morden.json?id=ein-talent-furs-morden",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/frau-winkler-verlasst-das-haus.json?id=frau-winkler-verlasst-das-haus": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/frau-winkler-verlasst-das-haus.json?id=frau-winkler-verlasst-das-haus",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/heimsuchung-eine-jahrhundertgeschichte.json?id=heimsuchung-eine-jahrhundertgeschichte": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/heimsuchung-eine-jahrhundertgeschichte.json?id=heimsuchung-eine-jahrhundertgeschichte",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/minotaurus.json?id=minotaurus": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/minotaurus.json?id=minotaurus",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/naza.json?id=naza": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/naza.json?id=naza",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/sinn-und-sinnlichkeit-2026.json?id=sinn-und-sinnlichkeit-2026": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/sinn-und-sinnlichkeit-2026.json?id=sinn-und-sinnlichkeit-2026",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/tatis-herrliche-zeiten-playtime.json?id=tatis-herrliche-zeiten-playtime": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/tatis-herrliche-zeiten-playtime.json?id=tatis-herrliche-zeiten-playtime",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/vaterland.json?id=vaterland": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/vaterland.json?id=vaterland",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/wildwood.json?id=wildwood": {
+"image": "https://www.city-kinos.de/_next/data/s-Q0H6hqk-lRU2m0k2dhf/de/filme/wildwood.json?id=wildwood",
+"description": null
+},
+"https://www.city-kinos.de/filme/wildwood": {
+"image": "https://images.ctfassets.net/4mws6uyas4ta/att8nqciO4Hy7Unu5/11cc6746654c2275d61970ce98203afa/Wildwood",
+"description": "Stop-Motion-Fantasy Film von den Macher*innen von \"Coraline\""
+},
+"https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-10&tab=daily&sessionsExpanded=&film=minotaurus": {
+"image": "https://images.ctfassets.net/4mws6uyas4ta/SZfkHAvlTKBr0uwUtYdj6/24decd92e6067e9391203008245cd0c5/Open_Graph_Images_2.jpg",
+"description": "Finde Spielzeiten und Tickets für alle Filme, Specials und Highlights im Programm der City Kinos München."
+},
+"https://www.muenchner-kammerspiele.de/de/programm/50954-joyce-moreno?activity=50993": {
+"image": "https://www.muenchner-kammerspiele.de/images/Joyce_Moreno_Photoshoot_Isabela_Espindola_24.jpg?w=2000",
+"description": "Joyce Moreno // Die international gefeierte Rebellin der brasilianischen Bossa Nova macht Halt in München // Werkraum // Joyce Moreno ist mehr als eine Stimme der brasilianischen Bossa Nova – sie ist Erzählerin, Wegbereiterin und eine Künstlerin, die seit über fünf Jahrzehnten mit unerschütterlicher Entschlossenheit ihren ganz eigenen Klang formt. // In den 1960er-Jahren, inmitten einer von Männer"
+},
+"https://www.museum-lichtspiele.de/detail/125211/Ebenezer": {
+"image": "https://cineprog.de/images/MJpics/headslider/125/125211.jpg?v=1791424130",
+"description": "Museum Lichtspiele - Lilienstrasse 2, 81669 München: Ebenezer | Aktuelles Kinoprogramm, Kino, Film- und Kino-Infos, Online-Tickets, News, Events und vieles mehr..."
+},
+"https://www.museum-lichtspiele.de/detail/125217/The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping": {
+"image": "https://cineprog.de/images/MJpics/headslider/125/125217.jpg?v=1792375084",
+"description": "Museum Lichtspiele - Lilienstrasse 2, 81669 München: The Hunger Games: Sunrise on the Reaping | Aktuelles Kinoprogramm, Kino, Film- und Kino-Infos, Online-Tickets, News, Events und vieles mehr..."
+},
+"https://www.museum-lichtspiele.de/detail/125217/The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping%20%28OV%29": {
+"image": "https://cineprog.de/images/MJpics/headslider/125/125217.jpg?v=1792375084",
+"description": "Museum Lichtspiele - Lilienstrasse 2, 81669 München: The Hunger Games: Sunrise on the Reaping | Aktuelles Kinoprogramm, Kino, Film- und Kino-Infos, Online-Tickets, News, Events und vieles mehr..."
+},
+"https://www.museum-lichtspiele.de/detail/128745/How%20to%20Rob%20a%20Bank": {
+"image": "https://cineprog.de/images/MJpics/headslider/128/128745.jpg?v=1789696995",
+"description": "Museum Lichtspiele - Lilienstrasse 2, 81669 München: How to Rob a Bank | Aktuelles Kinoprogramm, Kino, Film- und Kino-Infos, Online-Tickets, News, Events und vieles mehr..."
+},
+"https://www.museum-lichtspiele.de/detail/129264/Wild%20Horse%20Nine": {
+"image": "https://cineprog.de/images/MJpics/headslider/129/129264.jpg?v=1790076337",
+"description": "Museum Lichtspiele - Lilienstrasse 2, 81669 München: Wild Horse Nine | Aktuelles Kinoprogramm, Kino, Film- und Kino-Infos, Online-Tickets, News, Events und vieles mehr..."
+},
+"https://www.museum-lichtspiele.de/detail/129850/George%20Michael%3A%20The%20Faith%20Tour": {
+"image": "https://cineprog.de/images/MJpics/headslider/129/129850.jpg?v=1794020087",
+"description": "Museum Lichtspiele - Lilienstrasse 2, 81669 München: George Michael: The Faith Tour | Aktuelles Kinoprogramm, Kino, Film- und Kino-Infos, Online-Tickets, News, Events und vieles mehr..."
+},
+"https://www.museum-lichtspiele.de/detail/131751/Festtagsspa%C3%9F%20mit%20Peppa%20-%20Das%20Kinoerlebnis": {
+"image": "https://cineprog.de/images/MJpics/headslider/131/131751.jpg?v=1792203082",
+"description": "Museum Lichtspiele - Lilienstrasse 2, 81669 München: Festtagsspaß mit Peppa - Das Kinoerlebnis | Aktuelles Kinoprogramm, Kino, Film- und Kino-Infos, Online-Tickets, News, Events und vieles mehr..."
 }
 }
