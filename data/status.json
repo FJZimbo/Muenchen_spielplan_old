@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T05:11:26+00:00",
+ "generated_at": "2026-11-12T05:12:41+00:00",
  "venues": {
   "residenztheater": {
    "name": "Residenztheater",
@@ -18,10 +18,10 @@
     {
      "url": "https://www.residenztheater.de/spielplan",
      "context": null,
-     "anchors": 43,
-     "cards": 43,
+     "anchors": 42,
+     "cards": 42,
      "no_date": 0,
-     "no_time": 1,
+     "no_time": 0,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
      "events": 42
@@ -29,10 +29,10 @@
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-11&cHash=50e34a17963e7f2baea7a1e33d4934de",
      "context": null,
-     "anchors": 43,
-     "cards": 43,
+     "anchors": 42,
+     "cards": 42,
      "no_date": 0,
-     "no_time": 1,
+     "no_time": 0,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
      "events": 42
@@ -116,12 +116,12 @@
     }
    ],
    "count": 123,
-   "seconds": 38.9,
+   "seconds": 43.9,
    "ok": true,
-   "last_success": "2026-11-11T06:03+01:00",
-   "first": "2026-11-11",
+   "last_success": "2026-11-12T06:04+01:00",
+   "first": "2026-11-12",
    "last": "2027-06-19",
-   "sold_out": 22,
+   "sold_out": 18,
    "with_image": 0
   },
   "kammerspiele": {
@@ -141,20 +141,20 @@
     {
      "url": "https://www.muenchner-kammerspiele.de/de/programm/",
      "context": null,
-     "anchors": 384,
-     "cards": 384,
+     "anchors": 378,
+     "cards": 378,
      "no_date": 8,
      "no_time": 36,
      "no_title": 0,
      "pattern": "/programm/\\d+-[^/?#]+/(\\d+)\\.ics",
-     "events": 340
+     "events": 334
     }
    ],
-   "count": 168,
-   "seconds": 12.5,
+   "count": 165,
+   "seconds": 13.5,
    "ok": true,
-   "last_success": "2026-11-11T06:03+01:00",
-   "first": "2026-11-11",
+   "last_success": "2026-11-12T06:04+01:00",
+   "first": "2026-11-12",
    "last": "2027-11-17",
    "sold_out": 2,
    "with_image": 0
@@ -176,9 +176,9 @@
     {
      "url": "https://www.muenchner-volkstheater.de/programm/spielplan",
      "context": null,
-     "anchors": 124,
-     "cards": 123,
-     "no_date": 120,
+     "anchors": 122,
+     "cards": 121,
+     "no_date": 118,
      "no_time": 0,
      "no_title": 0,
      "pattern": "muenchner-volkstheater\\.de/programm/(?!spielplan)([a-z0-9-]+/[a-z0-9-]+)/?$",
@@ -186,11 +186,11 @@
     }
    ],
    "count": 2,
-   "seconds": 8.1,
+   "seconds": 9.3,
    "ok": true,
-   "last_success": "2026-11-11T06:03+01:00",
-   "first": "2026-11-11",
-   "last": "2026-11-11",
+   "last_success": "2026-11-12T06:04+01:00",
+   "first": "2026-11-12",
+   "last": "2026-11-13",
    "sold_out": 0,
    "with_image": 0
   },
@@ -223,12 +223,12 @@
     },
     {
      "url": "https://www.deutsches-theater.de/programm/",
-     "show_links": 117
+     "show_links": 119
     },
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
      "mode": "range+weekly",
-     "dates": 15
+     "dates": 14
     },
     {
      "url": "https://www.deutsches-theater.de/operation-schneeschmelze/",
@@ -381,9 +381,19 @@
      "dates": 1
     },
     {
+     "url": "https://www.deutsches-theater.de/kinderfasching/",
+     "mode": "dates",
+     "dates": 1
+    },
+    {
      "url": "https://www.deutsches-theater.de/balltotal/",
      "mode": "dates",
      "dates": 1
+    },
+    {
+     "url": "https://www.deutsches-theater.de/089-kult/",
+     "mode": "dates",
+     "dates": 2
     },
     {
      "url": "https://www.deutsches-theater.de/rock-the-ballet/",
@@ -536,11 +546,6 @@
      "dates": 1
     },
     {
-     "url": "https://www.deutsches-theater.de/oskar-maria-graf/",
-     "mode": "dates",
-     "dates": 1
-    },
-    {
      "url": "https://www.deutsches-theater.de/",
      "context": null,
      "events": 0
@@ -557,7 +562,7 @@
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
      "mode": "range+weekly",
-     "dates": 15
+     "dates": 14
     },
     {
      "url": "https://www.deutsches-theater.de/der-geist-der-weihnacht/",
@@ -580,14 +585,14 @@
      "dates": 12
     }
    ],
-   "count": 245,
-   "seconds": 377.0,
+   "count": 246,
+   "seconds": 406.6,
    "ok": true,
-   "last_success": "2026-11-11T06:03+01:00",
-   "first": "2026-11-11",
+   "last_success": "2026-11-12T06:04+01:00",
+   "first": "2026-11-12",
    "last": "2027-11-23",
    "sold_out": 0,
-   "with_image": 245
+   "with_image": 246
   },
   "isarphilharmonie": {
    "name": "Isarphilharmonie",
@@ -616,11 +621,11 @@
     }
    ],
    "count": 24,
-   "seconds": 8.3,
+   "seconds": 8.8,
    "ok": true,
-   "last_success": "2026-11-11T06:03+01:00",
-   "first": "2026-11-11",
-   "last": "2026-12-03",
+   "last_success": "2026-11-12T06:04+01:00",
+   "first": "2026-11-12",
+   "last": "2026-12-04",
    "sold_out": 0,
    "with_image": 23
   },
@@ -644,7 +649,7 @@
     }
    ],
    "count": 0,
-   "seconds": 2.8,
+   "seconds": 2.4,
    "ok": false,
    "last_success": null,
    "kept_previous": 0
@@ -674,34 +679,34 @@
     {
      "url": "https://www.museum-lichtspiele.de/programm?filter=all",
      "context": null,
-     "film_links": 70,
-     "blocks": 35,
-     "screenings": 326,
+     "film_links": 68,
+     "blocks": 34,
+     "screenings": 300,
      "undated_times": 0,
-     "events": 326
+     "events": 300
     },
     {
      "url": "https://www.museum-lichtspiele.de/",
      "context": null,
-     "film_links": 31,
-     "blocks": 30,
+     "film_links": 33,
+     "blocks": 32,
      "screenings": 11,
-     "undated_times": 10,
+     "undated_times": 12,
      "events": 11
     },
     {
      "json_payloads": 4,
-     "json_events": 163
+     "json_events": 150
     }
    ],
-   "count": 229,
+   "count": 206,
    "seconds": 18.2,
    "ok": true,
-   "last_success": "2026-11-11T06:03+01:00",
-   "first": "2026-11-11",
+   "last_success": "2026-11-12T06:04+01:00",
+   "first": "2026-11-12",
    "last": "2027-01-09",
    "sold_out": 0,
-   "with_image": 229
+   "with_image": 206
   },
   "city-kino-atelier": {
    "name": "City Kinos & Atelier",
@@ -718,27 +723,27 @@
    "errors": [],
    "stats": [
     {
-     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-11&tab=daily&sessionsExpanded=&film=minotaurus",
+     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-12&tab=daily&sessionsExpanded=&film=naza",
      "context": null,
-     "film_links": 40,
-     "blocks": 18,
-     "screenings": 11,
-     "undated_times": 5,
-     "events": 11
+     "film_links": 34,
+     "blocks": 16,
+     "screenings": 13,
+     "undated_times": 3,
+     "events": 13
     },
     {
-     "json_payloads": 14,
-     "json_events": 305
+     "json_payloads": 13,
+     "json_events": 270
     }
    ],
-   "count": 188,
-   "seconds": 8.1,
+   "count": 169,
+   "seconds": 8.6,
    "ok": true,
-   "last_success": "2026-11-11T06:03+01:00",
-   "first": "2026-11-11",
+   "last_success": "2026-11-12T06:04+01:00",
+   "first": "2026-11-12",
    "last": "2026-12-19",
    "sold_out": 0,
-   "with_image": 131
+   "with_image": 108
   }
  }
 }
