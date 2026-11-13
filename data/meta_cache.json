@@ -3542,5 +3542,57 @@
 "https://www.muenchner-volkstheater.de/programm/schauspiel/lichtspiel": {
 "image": "https://www.muenchner-volkstheater.de/sites/default/files/styles/page_16_9/public/event/main-image/2024-09/plakatmotiv%20lichtspiel%20%28c%29%20elizaveta%20porodina.jpg?h=5bbef5c2&itok=rMMXCxbh",
 "description": "G. W. Pabst folgt einer Einladung der Nazis aus Amerika zurück nach Deutschland, wo er und seine Familie immer mehr von den verschiedenen Bereichen des Systems vereinnahmt werden."
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/chopin-eine-sonate-in-paris.json?id=chopin-eine-sonate-in-paris": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/chopin-eine-sonate-in-paris.json?id=chopin-eine-sonate-in-paris",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/ein-talent-furs-morden.json?id=ein-talent-furs-morden": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/ein-talent-furs-morden.json?id=ein-talent-furs-morden",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/heimsuchung-eine-jahrhundertgeschichte.json?id=heimsuchung-eine-jahrhundertgeschichte": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/heimsuchung-eine-jahrhundertgeschichte.json?id=heimsuchung-eine-jahrhundertgeschichte",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/helene-weigel-revolutionarin-im-rampenlicht.json?id=helene-weigel-revolutionarin-im-rampenlicht": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/helene-weigel-revolutionarin-im-rampenlicht.json?id=helene-weigel-revolutionarin-im-rampenlicht",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/minotaurus.json?id=minotaurus": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/minotaurus.json?id=minotaurus",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/naza.json?id=naza": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/naza.json?id=naza",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/sinn-und-sinnlichkeit-2026.json?id=sinn-und-sinnlichkeit-2026": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/sinn-und-sinnlichkeit-2026.json?id=sinn-und-sinnlichkeit-2026",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/vaterland.json?id=vaterland": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/vaterland.json?id=vaterland",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/wild-horse-nine.json?id=wild-horse-nine": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/wild-horse-nine.json?id=wild-horse-nine",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/wildwood.json?id=wildwood": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/filme/wildwood.json?id=wildwood",
+"description": null
+},
+"https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/specials/cinefete-munchen-2026.json?id=cinefete-munchen-2026": {
+"image": "https://www.city-kinos.de/_next/data/ehBDhbelYXfHmigLmXDbP/de/specials/cinefete-munchen-2026.json?id=cinefete-munchen-2026",
+"description": null
+},
+"https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-13&tab=daily&sessionsExpanded=&film=naza": {
+"image": "https://images.ctfassets.net/4mws6uyas4ta/SZfkHAvlTKBr0uwUtYdj6/24decd92e6067e9391203008245cd0c5/Open_Graph_Images_2.jpg",
+"description": "Finde Spielzeiten und Tickets für alle Filme, Specials und Highlights im Programm der City Kinos München."
+},
+"https://www.muenchner-kammerspiele.de/de/programm/55596-michel-friedman-spricht-mit-uschi-glas?activity=55599": {
+"image": "https://www.muenchner-kammerspiele.de/images/0861f18b-29ae-49b4-8b49-4122ad61de11.jpg?w=2000",
+"description": "Michel Friedman spricht mit Uschi Glas  // Gespräch mit literarischem Input // Schauspielhaus // Im Juni lädt Michel Friedman als letzten Gast der Spielzeit eine der populärsten Schauspielerinnen Deutschlands auf den Gesprächs-Sessel. Uschi Glas setzt sich neben ihren schauspielerischen Tätigkeiten seit Jahren gegen Ausgrenzung und soziale Benachteiligung ein und spricht mit Autor und Philosoph Mi"
 }
 }
