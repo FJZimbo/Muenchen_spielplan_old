@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:06:17+00:00",
+ "generated_at": "2026-11-20T12:56:10+00:00",
  "venues": {
   "residenztheater": {
    "name": "Residenztheater",
@@ -18,24 +18,24 @@
     {
      "url": "https://www.residenztheater.de/spielplan",
      "context": null,
-     "anchors": 27,
-     "cards": 27,
+     "anchors": 25,
+     "cards": 25,
      "no_date": 0,
      "no_time": 0,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 27
+     "events": 25
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-11&cHash=50e34a17963e7f2baea7a1e33d4934de",
      "context": null,
-     "anchors": 27,
-     "cards": 27,
+     "anchors": 25,
+     "cards": 25,
      "no_date": 0,
      "no_time": 0,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 27
+     "events": 25
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2026-12&cHash=978a8caafa88da6426c2d6904eb0119c",
@@ -51,7 +51,7 @@
     {
      "url": "https://www.residenztheater.de/spielplan?month=2027-01&cHash=d4d95b4b795ca29d274008d1a803923b",
      "context": null,
-     "anchors": 128,
+     "anchors": 129,
      "cards": 69,
      "no_date": 0,
      "no_time": 1,
@@ -115,13 +115,13 @@
      "events": 2
     }
    ],
-   "count": 174,
-   "seconds": 49.4,
+   "count": 172,
+   "seconds": 37.0,
    "ok": true,
-   "last_success": "2026-11-19T13:57+01:00",
-   "first": "2026-11-19",
+   "last_success": "2026-11-20T13:48+01:00",
+   "first": "2026-11-20",
    "last": "2027-06-19",
-   "sold_out": 18,
+   "sold_out": 20,
    "with_image": 0
   },
   "kammerspiele": {
@@ -141,22 +141,22 @@
     {
      "url": "https://www.muenchner-kammerspiele.de/de/programm/",
      "context": null,
-     "anchors": 350,
-     "cards": 350,
+     "anchors": 348,
+     "cards": 348,
      "no_date": 6,
      "no_time": 36,
      "no_title": 0,
      "pattern": "/programm/\\d+-[^/?#]+/(\\d+)\\.ics",
-     "events": 308
+     "events": 306
     }
    ],
-   "count": 152,
-   "seconds": 11.4,
+   "count": 151,
+   "seconds": 12.0,
    "ok": true,
-   "last_success": "2026-11-19T13:57+01:00",
-   "first": "2026-11-19",
+   "last_success": "2026-11-20T13:48+01:00",
+   "first": "2026-11-20",
    "last": "2027-11-17",
-   "sold_out": 3,
+   "sold_out": 5,
    "with_image": 0
   },
   "volkstheater": {
@@ -176,9 +176,9 @@
     {
      "url": "https://www.muenchner-volkstheater.de/programm/spielplan",
      "context": null,
-     "anchors": 114,
-     "cards": 113,
-     "no_date": 110,
+     "anchors": 113,
+     "cards": 112,
+     "no_date": 109,
      "no_time": 0,
      "no_title": 0,
      "pattern": "muenchner-volkstheater\\.de/programm/(?!spielplan)([a-z0-9-]+/[a-z0-9-]+)/?$",
@@ -186,10 +186,10 @@
     }
    ],
    "count": 2,
-   "seconds": 7.8,
+   "seconds": 8.5,
    "ok": true,
-   "last_success": "2026-11-19T13:57+01:00",
-   "first": "2026-11-19",
+   "last_success": "2026-11-20T13:48+01:00",
+   "first": "2026-11-20",
    "last": "2026-11-20",
    "sold_out": 0,
    "with_image": 0
@@ -223,17 +223,17 @@
     },
     {
      "url": "https://www.deutsches-theater.de/programm/",
-     "show_links": 118
+     "show_links": 117
     },
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
      "mode": "range+weekly",
-     "dates": 6
+     "dates": 5
     },
     {
      "url": "https://www.deutsches-theater.de/das-az-sofa/",
      "mode": "dates",
-     "dates": 5
+     "dates": 4
     },
     {
      "url": "https://www.deutsches-theater.de/ginas-christmas-comedy-show/",
@@ -541,6 +541,11 @@
      "dates": 1
     },
     {
+     "url": "https://www.deutsches-theater.de/trio-sfera/",
+     "mode": "dates",
+     "dates": 1
+    },
+    {
      "url": "https://www.deutsches-theater.de/",
      "context": null,
      "events": 0
@@ -557,7 +562,7 @@
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
      "mode": "range+weekly",
-     "dates": 6
+     "dates": 5
     },
     {
      "url": "https://www.deutsches-theater.de/der-geist-der-weihnacht/",
@@ -580,14 +585,14 @@
      "dates": 12
     }
    ],
-   "count": 233,
-   "seconds": 409.1,
+   "count": 232,
+   "seconds": 352.9,
    "ok": true,
-   "last_success": "2026-11-19T13:57+01:00",
-   "first": "2026-11-19",
+   "last_success": "2026-11-20T13:48+01:00",
+   "first": "2026-11-20",
    "last": "2027-11-23",
    "sold_out": 0,
-   "with_image": 233
+   "with_image": 232
   },
   "isarphilharmonie": {
    "name": "Isarphilharmonie",
@@ -606,23 +611,23 @@
     {
      "url": "https://www.gasteig.de/veranstaltungen/?room=isarphilharmonie",
      "context": null,
-     "anchors": 24,
-     "cards": 24,
+     "anchors": 72,
+     "cards": 72,
      "no_date": 0,
      "no_time": 0,
      "no_title": 0,
      "pattern": "gasteig\\.de/veranstaltungen/([a-z0-9][a-z0-9-]*)/?$",
-     "events": 24
+     "events": 72
     }
    ],
-   "count": 24,
-   "seconds": 8.7,
+   "count": 72,
+   "seconds": 9.7,
    "ok": true,
-   "last_success": "2026-11-19T13:57+01:00",
-   "first": "2026-11-19",
-   "last": "2026-12-11",
+   "last_success": "2026-11-20T13:48+01:00",
+   "first": "2026-11-20",
+   "last": "2027-01-21",
    "sold_out": 0,
-   "with_image": 23
+   "with_image": 71
   },
   "bayerische-staatsoper": {
    "name": "Bayerische Staatsoper",
@@ -644,7 +649,7 @@
     }
    ],
    "count": 0,
-   "seconds": 2.5,
+   "seconds": 2.2,
    "ok": false,
    "last_success": null,
    "kept_previous": 0
@@ -676,32 +681,32 @@
      "context": null,
      "film_links": 66,
      "blocks": 33,
-     "screenings": 280,
+     "screenings": 254,
      "undated_times": 0,
-     "events": 280
+     "events": 254
     },
     {
      "url": "https://www.museum-lichtspiele.de/",
      "context": null,
-     "film_links": 22,
-     "blocks": 21,
+     "film_links": 30,
+     "blocks": 29,
      "screenings": 11,
-     "undated_times": 9,
+     "undated_times": 14,
      "events": 11
     },
     {
      "json_payloads": 4,
-     "json_events": 140
+     "json_events": 127
     }
    ],
-   "count": 203,
-   "seconds": 18.5,
+   "count": 183,
+   "seconds": 16.7,
    "ok": true,
-   "last_success": "2026-11-19T13:57+01:00",
-   "first": "2026-11-19",
+   "last_success": "2026-11-20T13:48+01:00",
+   "first": "2026-11-20",
    "last": "2027-01-09",
    "sold_out": 0,
-   "with_image": 203
+   "with_image": 183
   },
   "city-kino-atelier": {
    "name": "City Kinos & Atelier",
@@ -718,27 +723,27 @@
    "errors": [],
    "stats": [
     {
-     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-19&tab=daily&sessionsExpanded=&film=wildwood",
+     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-20&tab=daily&sessionsExpanded=&film=la-bola-negra",
      "context": null,
-     "film_links": 38,
-     "blocks": 18,
-     "screenings": 10,
-     "undated_times": 4,
-     "events": 10
+     "film_links": 34,
+     "blocks": 16,
+     "screenings": 12,
+     "undated_times": 3,
+     "events": 12
     },
     {
-     "json_payloads": 14,
-     "json_events": 243
+     "json_payloads": 10,
+     "json_events": 200
     }
    ],
-   "count": 161,
-   "seconds": 11.0,
+   "count": 143,
+   "seconds": 7.7,
    "ok": true,
-   "last_success": "2026-11-19T13:57+01:00",
-   "first": "2026-11-19",
+   "last_success": "2026-11-20T13:48+01:00",
+   "first": "2026-11-20",
    "last": "2027-01-02",
    "sold_out": 0,
-   "with_image": 84
+   "with_image": 59
   }
  }
 }
