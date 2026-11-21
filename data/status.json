@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:56:10+00:00",
+ "generated_at": "2026-11-21T12:43:02+00:00",
  "venues": {
   "residenztheater": {
    "name": "Residenztheater",
@@ -43,10 +43,10 @@
      "anchors": 73,
      "cards": 73,
      "no_date": 0,
-     "no_time": 2,
+     "no_time": 1,
      "no_title": 0,
      "pattern": "calendarics\\.ics\\?.*?activity(?:%5D|\\])?=(\\d+)",
-     "events": 71
+     "events": 72
     },
     {
      "url": "https://www.residenztheater.de/spielplan?month=2027-01&cHash=d4d95b4b795ca29d274008d1a803923b",
@@ -115,11 +115,11 @@
      "events": 2
     }
    ],
-   "count": 172,
-   "seconds": 37.0,
+   "count": 173,
+   "seconds": 35.6,
    "ok": true,
-   "last_success": "2026-11-20T13:48+01:00",
-   "first": "2026-11-20",
+   "last_success": "2026-11-21T13:34+01:00",
+   "first": "2026-11-21",
    "last": "2027-06-19",
    "sold_out": 20,
    "with_image": 0
@@ -141,20 +141,20 @@
     {
      "url": "https://www.muenchner-kammerspiele.de/de/programm/",
      "context": null,
-     "anchors": 348,
-     "cards": 348,
-     "no_date": 6,
+     "anchors": 338,
+     "cards": 338,
+     "no_date": 4,
      "no_time": 36,
      "no_title": 0,
      "pattern": "/programm/\\d+-[^/?#]+/(\\d+)\\.ics",
-     "events": 306
+     "events": 298
     }
    ],
-   "count": 151,
-   "seconds": 12.0,
+   "count": 147,
+   "seconds": 12.2,
    "ok": true,
-   "last_success": "2026-11-20T13:48+01:00",
-   "first": "2026-11-20",
+   "last_success": "2026-11-21T13:34+01:00",
+   "first": "2026-11-21",
    "last": "2027-11-17",
    "sold_out": 5,
    "with_image": 0
@@ -176,9 +176,9 @@
     {
      "url": "https://www.muenchner-volkstheater.de/programm/spielplan",
      "context": null,
-     "anchors": 113,
-     "cards": 112,
-     "no_date": 109,
+     "anchors": 112,
+     "cards": 111,
+     "no_date": 108,
      "no_time": 0,
      "no_title": 0,
      "pattern": "muenchner-volkstheater\\.de/programm/(?!spielplan)([a-z0-9-]+/[a-z0-9-]+)/?$",
@@ -186,11 +186,11 @@
     }
    ],
    "count": 2,
-   "seconds": 8.5,
+   "seconds": 9.4,
    "ok": true,
-   "last_success": "2026-11-20T13:48+01:00",
-   "first": "2026-11-20",
-   "last": "2026-11-20",
+   "last_success": "2026-11-21T13:34+01:00",
+   "first": "2026-11-21",
+   "last": "2026-11-21",
    "sold_out": 0,
    "with_image": 0
   },
@@ -214,7 +214,9 @@
      ]
     }
    ],
-   "errors": [],
+   "errors": [
+    "https://www.deutsches-theater.de/astor-und-schmidbauer/: TimeoutError"
+   ],
    "stats": [
     {
      "url": "https://www.deutsches-theater.de/programm/",
@@ -223,22 +225,17 @@
     },
     {
      "url": "https://www.deutsches-theater.de/programm/",
-     "show_links": 117
+     "show_links": 116
     },
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
      "mode": "range+weekly",
-     "dates": 5
+     "dates": 4
     },
     {
      "url": "https://www.deutsches-theater.de/das-az-sofa/",
      "mode": "dates",
-     "dates": 4
-    },
-    {
-     "url": "https://www.deutsches-theater.de/ginas-christmas-comedy-show/",
-     "mode": "dates",
-     "dates": 1
+     "dates": 3
     },
     {
      "url": "https://www.deutsches-theater.de/der-geist-der-weihnacht/",
@@ -426,11 +423,6 @@
      "dates": 1
     },
     {
-     "url": "https://www.deutsches-theater.de/astor-und-schmidbauer/",
-     "mode": "dates",
-     "dates": 1
-    },
-    {
      "url": "https://www.deutsches-theater.de/sophie-wegener-encontros-e-despedidas/",
      "mode": "dates",
      "dates": 1
@@ -546,6 +538,11 @@
      "dates": 1
     },
     {
+     "url": "https://www.deutsches-theater.de/solaire/",
+     "mode": "dates",
+     "dates": 1
+    },
+    {
      "url": "https://www.deutsches-theater.de/",
      "context": null,
      "events": 0
@@ -562,7 +559,7 @@
     {
      "url": "https://www.deutsches-theater.de/romeo-und-julia/",
      "mode": "range+weekly",
-     "dates": 5
+     "dates": 4
     },
     {
      "url": "https://www.deutsches-theater.de/der-geist-der-weihnacht/",
@@ -585,14 +582,14 @@
      "dates": 12
     }
    ],
-   "count": 232,
-   "seconds": 352.9,
+   "count": 229,
+   "seconds": 439.3,
    "ok": true,
-   "last_success": "2026-11-20T13:48+01:00",
-   "first": "2026-11-20",
+   "last_success": "2026-11-21T13:34+01:00",
+   "first": "2026-11-21",
    "last": "2027-11-23",
    "sold_out": 0,
-   "with_image": 232
+   "with_image": 229
   },
   "isarphilharmonie": {
    "name": "Isarphilharmonie",
@@ -611,23 +608,23 @@
     {
      "url": "https://www.gasteig.de/veranstaltungen/?room=isarphilharmonie",
      "context": null,
-     "anchors": 72,
-     "cards": 72,
+     "anchors": 24,
+     "cards": 24,
      "no_date": 0,
      "no_time": 0,
      "no_title": 0,
      "pattern": "gasteig\\.de/veranstaltungen/([a-z0-9][a-z0-9-]*)/?$",
-     "events": 72
+     "events": 24
     }
    ],
-   "count": 72,
-   "seconds": 9.7,
+   "count": 24,
+   "seconds": 8.7,
    "ok": true,
-   "last_success": "2026-11-20T13:48+01:00",
-   "first": "2026-11-20",
-   "last": "2027-01-21",
+   "last_success": "2026-11-21T13:34+01:00",
+   "first": "2026-11-21",
+   "last": "2026-12-13",
    "sold_out": 0,
-   "with_image": 71
+   "with_image": 23
   },
   "bayerische-staatsoper": {
    "name": "Bayerische Staatsoper",
@@ -649,7 +646,7 @@
     }
    ],
    "count": 0,
-   "seconds": 2.2,
+   "seconds": 2.5,
    "ok": false,
    "last_success": null,
    "kept_previous": 0
@@ -679,34 +676,34 @@
     {
      "url": "https://www.museum-lichtspiele.de/programm?filter=all",
      "context": null,
-     "film_links": 66,
-     "blocks": 33,
-     "screenings": 254,
+     "film_links": 64,
+     "blocks": 32,
+     "screenings": 214,
      "undated_times": 0,
-     "events": 254
+     "events": 214
     },
     {
      "url": "https://www.museum-lichtspiele.de/",
      "context": null,
-     "film_links": 30,
-     "blocks": 29,
-     "screenings": 11,
+     "film_links": 31,
+     "blocks": 30,
+     "screenings": 9,
      "undated_times": 14,
-     "events": 11
+     "events": 9
     },
     {
      "json_payloads": 4,
-     "json_events": 127
+     "json_events": 107
     }
    ],
-   "count": 183,
-   "seconds": 16.7,
+   "count": 165,
+   "seconds": 17.5,
    "ok": true,
-   "last_success": "2026-11-20T13:48+01:00",
-   "first": "2026-11-20",
+   "last_success": "2026-11-21T13:34+01:00",
+   "first": "2026-11-21",
    "last": "2027-01-09",
    "sold_out": 0,
-   "with_image": 183
+   "with_image": 165
   },
   "city-kino-atelier": {
    "name": "City Kinos & Atelier",
@@ -723,27 +720,27 @@
    "errors": [],
    "stats": [
     {
-     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-20&tab=daily&sessionsExpanded=&film=la-bola-negra",
+     "url": "https://www.city-kinos.de/filme?sort=Popularity&date=2026-11-21&tab=daily&sessionsExpanded=&film=wildwood",
      "context": null,
      "film_links": 34,
      "blocks": 16,
-     "screenings": 12,
+     "screenings": 13,
      "undated_times": 3,
-     "events": 12
+     "events": 13
     },
     {
-     "json_payloads": 10,
-     "json_events": 200
+     "json_payloads": 13,
+     "json_events": 179
     }
    ],
-   "count": 143,
-   "seconds": 7.7,
+   "count": 134,
+   "seconds": 9.1,
    "ok": true,
-   "last_success": "2026-11-20T13:48+01:00",
-   "first": "2026-11-20",
+   "last_success": "2026-11-21T13:34+01:00",
+   "first": "2026-11-21",
    "last": "2027-01-02",
    "sold_out": 0,
-   "with_image": 59
+   "with_image": 61
   }
  }
 }
